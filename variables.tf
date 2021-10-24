@@ -2,7 +2,7 @@
 # VARIABLES
 ##################################################################################
 
-#This is variable for region
+#This is variable for region add for test
 variable "region" {
   default = "us-east-1"
 }
